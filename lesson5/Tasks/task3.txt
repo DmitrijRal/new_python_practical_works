@@ -1,0 +1,6 @@
+Petrov 20000
+Ivanov 30000
+Sergiev 10000
+Pavlov 100000
+Nikitov 5000
+Dmitriev 111111
